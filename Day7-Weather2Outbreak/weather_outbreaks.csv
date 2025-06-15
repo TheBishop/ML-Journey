@@ -1,0 +1,11 @@
+Temperature,Humidity,Rainfall,WindSpeed,Outbreak,Region
+30,85,10,15,1,Accra
+32,78,0,20,0,Kumasi
+29,90,15,12,1,Tamale
+31,88,5,18,1,Takoradi
+33,80,12,22,0,Ho
+35,75,0,17,0,Sunyani
+28,92,20,14,1,Cape Coast
+30,86,8,16,1,Koforidua
+34,77,3,19,0,Bolgatanga
+32,79,7,21,0,Wa
